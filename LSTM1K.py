@@ -134,7 +134,7 @@ def LSTMPredict(Stockname):
     print ("Last Day Value:", np.asscalar(last_val))
     print ("Next Day Value:", np.asscalar(last_val*next_val))
     # print np.append(last_val, next_val)
-    print(testScore/av)
+    #print(testScore/av)
     
 def main():
     companyNameList = ["GOOG","AABA","AMZN","OPK","FB","TWTR","NFLX","TSLA","BABA","SPLK"]
