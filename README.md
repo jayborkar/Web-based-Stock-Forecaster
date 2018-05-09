@@ -12,8 +12,8 @@
 - Stored the data in MySQL database.
 
 # Prediction
-###Long-term Prediction : Used LSTM - Composed of a memory cell, an input gate, an output gate forget gate. It can avoids
+Long-term Prediction : Used LSTM - Composed of a memory cell, an input gate, an output gate forget gate. It can avoids
 the long-term dependencies. It remembers information for periods of time。 
 
-###Short Term: Used Bayesian Curve Fitting 
+Short Term: Used Bayesian Curve Fitting 
 
