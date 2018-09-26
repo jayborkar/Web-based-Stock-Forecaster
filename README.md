@@ -1,6 +1,6 @@
 # Web-based-Stock-Forecaster
 
-- •	Created a Web based Stock Forecaster system with Deep Learning network - Long Short Term Memory (LSTM) and Machine Learning Algorithm - Bayesian Curve fitting for prediction of stock market prices. Efficiency achieved is greater than 95 %.
+- Created a Web based Stock Forecaster system with Deep Learning network - Long Short Term Memory (LSTM) and Machine Learning Algorithm - Bayesian Curve fitting for prediction of stock market prices. Efficiency achieved is greater than 95 %.
 
 - Used HTML, CSS, JAVASCRIPT for the front-end.
 
