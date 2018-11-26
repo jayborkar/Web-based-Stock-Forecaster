@@ -14,7 +14,7 @@
 - Used OHLC average (average of Open, High, Low and Closing Prices) for prediction.
 
 # Dataset Preprocessing
-- After converting the dataset into OHLC average, it becomes one column data. This has been converted into two column time series data, 1st column consisting stock price of time t, and second column of time t+1. All values have been normalized between 0 and 1.
+- After converting the dataset into OHLC average, it becomes one column data. This has been converted into two column time series data, 1st column consisting stock price of time t, and second column of time t+1. All values have been normalized using MinMaxScaler between 0 and 1.
 
 # Prediction
 Long-term Prediction : Used LSTM - Composed of a memory cell, an input gate, an output gate forget gate. It can avoids
